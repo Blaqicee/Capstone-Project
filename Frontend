@@ -1,0 +1,7 @@
+cd client
+npm create vite@latest
+# Choose React + JSX
+npm install
+npm install react-router-dom tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run dev
