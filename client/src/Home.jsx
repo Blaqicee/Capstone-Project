@@ -1,0 +1,9 @@
+import React from "react";
+
+const Home = () => (
+    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+        <h1 className="text-3xl font-bold">Welcome to Capstone Project</h1>
+    </div>
+);
+
+export default Home;
